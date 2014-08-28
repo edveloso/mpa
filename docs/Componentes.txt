@@ -1,6 +1,7 @@
-Lista de possíveis componentes
+Lista de possÃ­veis componentes
 
 - 1 Arduino Motor Shield L293D Driver Ponte H (Controlar motores)
 - 1 Motor de passo 28BYJ-48 (Direcionar Leme)
-- 1 Motor com caixa de redução (Movimentação)
-- 1 Módulo XBEE (Comunicação sem Fio)
+- 1 Motor com caixa de reduÃ§Ã£o (MovimentaÃ§Ã£o)
+- 1 MÃ³dulo XBEE (ComunicaÃ§Ã£o sem Fio)
+- 1 Ethernet Shield (Comprado)
